@@ -1,7 +1,5 @@
 ## Welcome to my Github space. 👋
 
----
-
 <p align="center">
   <a href="https://github.com/fy2462" class="rich-diff-level-one">
     <img src="https://github-readme-stats.vercel.app/api?username=fy2462&title_color=333&text_color=777" alt="fy2462's Stats" >
