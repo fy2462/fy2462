@@ -1,16 +1,27 @@
-### Hi there 👋
+## Welcome to my Github space. 👋
+---
 
-<!--
-**fy2462/fy2462** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://github.com/fy2462" class="rich-diff-level-one">
+    <img src="https://github-readme-stats.vercel.app/api?username=fy2462&title_color=333&text_color=777" alt="fy2462's Stats" >
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <strong>Check out my work below!</strong>
+  <br><br>
+  <a href="https://github.com/fy2462">
+    <img src="https://badges.pufler.dev/visits/fy2462/fy2462?style=flat-square&color=black&logo=github">
+  </a>
+  <a href="https://github.com/fy2462">
+    <img src="https://badges.pufler.dev/years/fy2462?style=flat-square&color=black&logo=github">
+  </a>
+  <a href="https://github.com/fy2462?tab=repositories">
+    <img src="https://badges.pufler.dev/repos/fy2462?style=flat-square&color=black&logo=github">
+  </a>
+  <a href="https://github.com/fy2462">
+    <img src="https://badges.pufler.dev/commits/monthly/fy2462?style=flat-square&color=black&logo=github">
+  </a>
+</p>
