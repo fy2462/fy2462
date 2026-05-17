@@ -1,6 +1,6 @@
 # Hi 👋, I'm Yan Feng
 
-### An experienced Rust developer
+### An experienced AI infra developer
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fy2462" alt="fy2462" /></a> </p>
 
